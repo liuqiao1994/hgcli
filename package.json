@@ -1,7 +1,7 @@
 {
   "name": "vue-h5-template",
-  "version": "2.1.0",
-  "description": "A vue h5 template with Vant UI",
+  "version": "1.0.0",
+  "description": "vue h5 template",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
